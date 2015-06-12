@@ -13,7 +13,7 @@
     "watch": "watch-spawn -i -p npm run cover",
     "check": "npm run beautify-check && npm run eslint",
     "prepush": "npm run check && npm run test",
-    "changelog": "changelogx -f markdown -o ./changelog.md",
+    "changelog": "changelogx -f markdown -o ./changelog.md && git add ./changelog.md && git commit -m 'DOC: Generate Changelog'",
     "install-hooks": "prepush install && changelogx install-hook",
     "bump": "bumpery --verify='npm run check'"
   },
