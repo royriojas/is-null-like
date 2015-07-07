@@ -1,5 +1,10 @@
 
 # is-null-like - Changelog
+## v1.0.2
+- **Build Scripts Changes**
+  - Update deps to get latest version of beautifier tool - [8e62d0d]( https://github.com/royriojas/is-null-like/commit/8e62d0d ), [royriojas](https://github.com/royriojas), 07/07/2015 01:14:57
+
+    
 ## v1.0.1
 - **Bug Fixes**
   - issue preventing installing this module - [e51f90e]( https://github.com/royriojas/is-null-like/commit/e51f90e ), [royriojas](https://github.com/royriojas), 07/07/2015 01:05:44
