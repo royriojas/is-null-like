@@ -15,6 +15,6 @@ describe( 'is-null-like', function () {
     var isNullLike = require( '../' );
 
     expect( isNullLike( 3 ) ).to.be.false;
-    expect( isNullLike( {} ) ).to.be.false;
+    expect( isNullLike( { } ) ).to.be.false;
   } );
 } );
