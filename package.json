@@ -1,6 +1,6 @@
 {
   "name": "is-null-like",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple javascript function that will return true if the value is null like (aka undefined or null)",
   "main": "index.js",
   "scripts": {
