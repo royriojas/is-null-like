@@ -35,6 +35,10 @@ describe( 'is-null-like', function () {
 } );
 ```
 
+## License
+
+[MIT](./LICENSE)
+
 ## Changelog
 
 [changelog](./changelog.md)
