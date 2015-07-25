@@ -1,5 +1,10 @@
 
 # is-null-like - Changelog
+## v1.0.3
+- **Documentation**
+  - Add license link - [5c0a7bb]( https://github.com/royriojas/is-null-like/commit/5c0a7bb ), [royriojas](https://github.com/royriojas), 25/07/2015 01:51:48
+
+    
 ## v1.0.2
 - **Build Scripts Changes**
   - Update deps to get latest version of beautifier tool - [8e62d0d]( https://github.com/royriojas/is-null-like/commit/8e62d0d ), [royriojas](https://github.com/royriojas), 07/07/2015 01:14:57
